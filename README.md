@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of ekumanov/online-users-widget.** Not for installation: use [Packagist](https://packagist.org/packages/ekumanov/online-users-widget) or the [upstream repository](https://github.com/ekumanov/online-users-widget).
 
-**0** versions archived · Latest: [`v1.0.7`](https://github.com/flarchive/ekumanov-online-users-widget/tree/archive/v1.0.7) · License: `MIT` · Flarum: `^1.0.0`
+**8** versions archived · Latest: [`v1.0.7`](https://github.com/flarchive/ekumanov-online-users-widget/tree/archive/v1.0.7) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2023-10-19 | `^1.0.0` | [Browse](https://github.com/flarchive/ekumanov-online-users-widget/tree/archive/v1.0.0) |
+| `v1.0.1` | 2023-10-19 | `^1.0.0` | [Browse](https://github.com/flarchive/ekumanov-online-users-widget/tree/archive/v1.0.1) |
+| `v1.0.2` | 2023-10-19 | `^1.0.0` | [Browse](https://github.com/flarchive/ekumanov-online-users-widget/tree/archive/v1.0.2) |
+| `v1.0.3` | 2023-10-20 | `^1.0.0` | [Browse](https://github.com/flarchive/ekumanov-online-users-widget/tree/archive/v1.0.3) |
+| `v1.0.4` | 2023-10-20 | `^1.0.0` | [Browse](https://github.com/flarchive/ekumanov-online-users-widget/tree/archive/v1.0.4) |
+| `v1.0.5` | 2023-10-29 | `^1.0.0` | [Browse](https://github.com/flarchive/ekumanov-online-users-widget/tree/archive/v1.0.5) |
+| `v1.0.6` | 2023-10-29 | `^1.0.0` | [Browse](https://github.com/flarchive/ekumanov-online-users-widget/tree/archive/v1.0.6) |
+| `v1.0.7` | 2023-10-29 | `^1.0.0` | [Browse](https://github.com/flarchive/ekumanov-online-users-widget/tree/archive/v1.0.7) |
 
 Catalog entry: [packages/ekumanov-online-users-widget.json](https://github.com/flarchive/archive-index/blob/main/packages/ekumanov-online-users-widget.json)
 
